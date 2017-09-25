@@ -3,8 +3,10 @@
 # About snapshots
 Information about Snapshots needed here.
 # List of snapshots
-## September 22, 2017 - Announced
-> we will be doing a Snapshot on Friday at 18.00 CEST (16.00 UTC). A forum post will be following tomorrow which details some of the expected changes in this upcoming snapshot related to the transition period and manual claims.
+## September 22, 2017 - Milestone 216223
+Forum topic: [Snapshot: Public Validation 22.09.2017](https://forum.iota.org/t/snapshot-public-validation-22-09-2017/4256)
+* [20170922-iota-snapshot-milestone-216223-categorized.json](/uploads/dev-snapshot/20170922-iota-snapshot-milestone-216223-categorized.json) *(7.8 MB - application/json)* [source](https://ipfs.io/ipfs/Qmeb4B5AEi5MWTreKPRtufBFRFWRVTpZkBpX6FeaXCAe3B)
+* [20170922-iota-snapshot-milestone-216223.txt](/uploads/dev-snapshot/20170922-iota-snapshot-milestone-216223.txt) *(4.5 MB - text/plain)* [source](https://ipfs.io/ipfs/QmeC5kYrUXQpcAF8ZQ7Vwsq6STP3xV13HpNgFn1XzbPrdU/m5_sn.txt)
 
 ## August 8, 2017 - Milestone 150354
 Forum topic: [Snapshot Validation: 8. August 2017](https://forum.iota.org/t/snapshot-validation-8-august-2017/3333)
