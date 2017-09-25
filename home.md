@@ -14,7 +14,7 @@ As a member of `iotatangle` you can [log in](/login) with your Slack account. If
 
 Users will be granted write permission only within their personal user section `/u/username` by default. The username is equivalent to their Slack usernames. In their `/u` sections users can publish pages with information related to IOTA and other things they want to share with the community and general public.
 
-Then this project needs the help of as many users as possible to create main pages like:
+This project needs the help of as many users as possible to create main pages like:
 * [What is IOTA?](/iota/about-iota)
 * Download and install the wallet
 * Securely create and store a seed
