@@ -39,3 +39,5 @@ I intend to put more time into the project, to [debug](/wiki/known-issues) and [
 * There are many pages like [Presentations](/marketing/presentations), [Units & Supply](/iota/units-supply), [Snapshots](/dev/snapshots) and [Whitepaper](/research/whitepaper) that contain only very basic information. Ask for write permission in order to help improving these pages.
 # Warning!
 **Keep in mind that everything is synced to GitHub where the entire history of IOTA Wiki is permanently available for everyone! Each time you click the `save changes` button, the (edited) page is commited to the git repository. Think about the good and the very dangerous effects this can have and make sure not to post sensitive data like passwords and seeds!**
+
+![IOTA logo](/uploads/iota/iota-logo-transparent.png "IOTA"){.pagelogo}
