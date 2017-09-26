@@ -1,4 +1,6 @@
 <!-- TITLE: What is IOTA? -->
-<!-- SUBTITLE: A general introduction into IOTA -->
+<!-- SUBTITLE: General introduction into IOTA -->
 
-No content here yet. :(
+No content in here yet. :(
+
+![IOTA logo](/uploads/iota/iota-logo-transparent.png "IOTA"){.pagelogo}
