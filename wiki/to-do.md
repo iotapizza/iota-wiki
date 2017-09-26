@@ -4,4 +4,5 @@
 * Placeholder for many things
 # Wiki engine
 * Better sorting of menu items and a function to pin items to top. Currently items are sorted by their names. Items beginning with a capital letter are shown on top, so `Z` goes before `a`. Kinda weird.
-* HTML title is `IOTA Wiki` everywhere. Really bad. It should contain the title of the current page too. Users should be able to define metatags on their pages.
+* ~~HTML title is `IOTA Wiki` everywhere. Really bad. It should contain the title of the current page too. Users should be able to define metatags on their pages.~~ fixed
+* Improve readability of text (larger font/darker) as well as usability of the site (especially the menu and general navigation within this wiki).
