@@ -21,11 +21,11 @@ This project needs the help of as many users as possible to create main pages li
 
 and many other guides, preferably in multiple languages too. For write requests and general discussion about this project I created the `#projectwiki` channel.
 
-Write permission is individually assigned to users (or groups of users) who want to work on a specific page or section. This is necessary in order to prevent spam, if there were no restrictions some people would vanish content and put their reflinks and unrelated projects everywhere. We will assign moderators from different timezones to take care of the user permission management and to have an eye on the user activities.
+Write permission is individually assigned to users (or groups of users) who want to work on a specific page or section. This is necessary in order to prevent spam, if there were no restrictions some people would vanish content and put their reflinks and unrelated projects everywhere. We will assign moderators from different timezones to take care of the user permission management and to have an eye on the [user activities](https://github.com/iotapizza/iota-wiki/commits/master).
 
-The information will be grouped into sections like [/dev](/dev), [/research](/research), `/wallet`, `/spanish` (or simply `/es`)  and only selected users get write permission in each section. A specific group of users will be able to create and edit pages about `/research` aspects of IOTA, while `/wallet` guides can be managed only by wallet developers. (These pages contain sensitive data like download links and checksums.)
+The information will be grouped into sections like [/dev](/dev), [/research](/research), `/wallet`, `/spanish` or simply `/es`  and only selected users get write permission in each section. A specific group of users will be able to create and edit pages about `/research` aspects of IOTA, while `/wallet` guides can be managed only by wallet developers as these pages contain sensitive data like download links and checksums.
 
-It would be great to see many different users here, especially those not having a technical background looking for a way to contribute. Grab the initiative and start to turn this wiki into an informational, educational and entertaining place for the entire IOTA community.
+It would be great to see a lot of different users here, especially those not having a technical background looking for a way to contribute. Grab the initiative and start to turn this wiki into an informational, educational and entertaining place for the entire IOTA community.
 # Technical details
 [IOTA Wiki](/wiki) is based on [Wiki.js](https://github.com/Requarks/wiki), a simple and very lightweight wiki engine which can be customized and extended to our needs easily. The entire content is archived in a [public repository on GitHub](https://github.com/iotapizza/iota-wiki) that keeps track of the changes too.
 
@@ -38,6 +38,6 @@ I intend to put more time into the project, to [debug](/wiki/known-issues) and [
 * You could start to create a page in your `/u` section about a topic not covered by the wiki yet. Ask other users for feedback and move the page to a proper section once you are happy with the result.
 * There are many pages like [Presentations](/marketing/presentations), [Units & Supply](/iota/units-supply), [Snapshots](/dev/snapshots) and [Whitepaper](/research/whitepaper) that contain only very basic information. Ask for write permission in order to help improving these pages.
 # Warning!
-**Keep in mind that everything is synced to GitHub where the entire history of IOTA Wiki is permanently available for everyone! Each time you click the `save changes` button, the (edited) page is commited to the git repository. Think about the good and the very dangerous effects this can have and make sure not to post sensitive data like passwords and seeds!**
+**Keep in mind that everything is synced to GitHub where the [entire history of IOTA Wiki](https://github.com/iotapizza/iota-wiki/commits/master) is permanently accessible for anyone! Every time you click the `save changes` button, the (edited) page is commited to the Git repository. Think about the good and the very dangerous effects this can have and make sure not to post sensitive data like passwords and seeds!**
 
 ![IOTA logo](/uploads/iota/iota-logo-transparent.png "IOTA"){.pagelogo}
