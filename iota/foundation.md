@@ -5,5 +5,5 @@
 > 
 > More information about the Foundation, its members and the governance structure will be published over the coming weeks.
 
-## Foundation members
+# Foundation members
 quite many
