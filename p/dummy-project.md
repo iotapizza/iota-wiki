@@ -3,4 +3,4 @@
 
 **Purpose of this project:** Make the IOTA Wiki project menu look more comprehensive.
 
-![pizzaparrot](/uploads/wiki/pizzaparrot.gif "pizzaparrot")
+![pizzaparrot](/uploads/wiki/pizzaparrot.gif "pizzaparrot") ![pizzaparrot](/uploads/wiki/pizzaparrot.gif "pizzaparrot"){.pagelogo}
