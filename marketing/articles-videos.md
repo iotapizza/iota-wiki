@@ -4,7 +4,7 @@
 This is a collection of articles and videos related to IOTA. Not all of them belong into `/marketing` and need to be further sorted to proper sections and pages.
 
 # September 25, 2017
-## Video: #1 Meetup: IOTA and its practical application in the automotive industry
+## Video: #1 [Berlin] Meetup: IOTA and its practical application in the automotive industry
 [#1 Meetup: IOTA and its practical application in the automotive industry](https://www.youtube.com/watch?v=SVTOHdrsJ-U){.youtube}
 > On September 13th, 2017, we kicked off of our meetup series „Blockchain, tangle and beyond“ together with our friends from nakamo.to and innogy Innovation Hub.  After a presentation by Andreas Osowski (Core Developer at the IOTA foundation) about the latest developments at IOTA, Dr. Carsten Stöcker (Senior Manager at innogy Innovation Hub) shared some insights how innogy’s CarPass applies the IOTA protocol followed by a Q&A session.
 
@@ -17,6 +17,15 @@ This is a collection of articles and videos related to IOTA. Not all of them bel
 ## Video: MAKERS Rooftop Talks Vol. 4 in cooperation with nakamo.to: Dominik Schiener on IOTA & The Tangle
 [MAKERS Rooftop Talks Vol. 4 in cooperation with nakamo.to: Dominik Schiener on IOTA & The Tangle](https://www.youtube.com/watch?v=EXjCqT-oK9M){.youtube}
 > Dominik Schiener, co-founder of IOTA, speaks about "IOTA & The Tangle - Revolutionizing Blockchain Technology"
+
+# August 9, 2017
+## Video: Tokyo FinTech Meetup #3 - IOTA with Dominik Schiener
+[Tokyo FinTech Meetup #3 - IOTA with Dominik Schiener](https://www.youtube.com/watch?v=nswo5CurPxA){.youtube}
+> The Blockchain has had 8 years of progress. Considering the remarkable pace at which this technology has developed, the race is already on to write the next chapter. One of the many promising candidates vying to do just that is IOTA which focuses on the critical intersection between IoT and the Blockchain and aims to bring scalability, quantum security and fee-less payments to the Internet of Things. 
+> 
+> During this Meetup, Dominik Schiener, one of the creators of IOTA, will take us down the mythical rabbit hole to explain how this new decentralized network is designed to be the backbone for the IoT economy.
+> 
+> Mr. Schiener’s talk will cover the innovative Tangle, IOTA’s new kind of distributed ledger (without blocks!) and how he believes that the Machine Economy fueled by IOTA tokens will transform our world.
 
 # July 18, 2017
 ## Podcast: Arthur Falls: Ether Review #69 - IOTA & the Post-Blockchain Era (David Sønstebø interview)
