@@ -12,3 +12,5 @@ Summary of pages in `/iota`
 * [Units & Supply](/iota/units-supply)
 * [What is IOTA?](/iota/about-iota)
 * [What is the Tangle?](/iota/about-the-tangle)
+
+![IOTA logo](/uploads/iota/iota-logo.png "IOTA"){.pagelogo}
