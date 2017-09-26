@@ -8,6 +8,7 @@
 Please refer to [What is IOTA?](/iota/about-iota) for a more thorough introduction.
 # Pages
 Summary of pages in `/iota`
+* [IOTA Foundation](/iota/foundation) - The non-profit organization behind IOTA
 * [Units & Supply](/iota/units-supply)
 * [What is IOTA?](/iota/about-iota)
 * [What is the Tangle?](/iota/about-the-tangle)
