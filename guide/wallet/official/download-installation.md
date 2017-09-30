@@ -1,5 +1,5 @@
 <!-- TITLE: Download & installation -->
-<!-- SUBTITLE: The official IOTA wallet -->
+<!-- SUBTITLE: The official IOTA GUI wallet -->
 
 # Download
 The official IOTA GUI wallet is available for download on GitHub. You will always find the latest release on top of the following page.
