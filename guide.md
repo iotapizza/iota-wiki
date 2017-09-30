@@ -3,7 +3,7 @@
 
 # Wallet Guide
 ## Official IOTA wallet
-* [Download & installation](/guide/wallet/official/download) - The official IOTA (GUI) wallet
-* **[Seed generation and storage](/guide/wallet/official/seed) - The key to your wallet and IOTA balance**
+* [Download & installation](/guide/wallet/official/download-installation) - The official IOTA (GUI) wallet
+* **[Seed generation and storage](/guide/wallet/official/seeds) - The key to your wallet and IOTA balance!**
 
 ## Other wallets
