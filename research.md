@@ -2,5 +2,5 @@
 <!-- SUBTITLE: IOTA & Tangle research -->
 # Pages
 Summary of pages in `/research`
-* [Whitepaper](research/whitepaper) - IOTA whitepaper
+* [Whitepapers](research/whitepapers) - IOTA Whitepapers
 * [Timestamps](/research/timestamps) - Timestamps in the Tangle
