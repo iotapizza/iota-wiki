@@ -16,9 +16,9 @@ Download the correct build for your operating system:
 **Always use the latest version!** The wallet does **not** have an automated update mechanism. In order to avoid problems it is strongly advised to **check for new releases and other announcements** regularly.
 
 # Installation & update
-After you have downloaded the wallet you can verify the integrity of the file using the checksums provided at the download page. This is an **optional step**.
+After you have downloaded the wallet you can verify the integrity of the file using the checksums provided at the download page. This is an optional step.
 
-**Start the installation process** that will install the IOTA wallet and its prerequisites to your system.
+Then **start the installation process** (execute the file) that will install the IOTA wallet and its prerequisites to your system.
 
 If you are **upgrading** from an earlier release you can just install the new version over the existing one (unless stated otherwise in the release notes). Since you only need your seeds to access your wallets (and IOTA balances) from any device in the world, it is usually not necessary to make backups of the wallet itself.
 
