@@ -10,6 +10,7 @@ For write requests and general discussion please join the `#projectwiki` channel
 
 -----
 In case you are looking for the **Wikipedia** page of [IOTA](/iota), it is located at:
+
 [https://en.wikipedia.org/wiki/IOTA_(technology)](https://en.wikipedia.org/wiki/IOTA_(technology))
 
 -----
