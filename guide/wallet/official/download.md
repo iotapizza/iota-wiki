@@ -25,6 +25,6 @@ If you are **upgrading** from an earlier release you only need to install the ne
 It is of **utmost importance** to fully understand [how seeds work](/guide/wallet/official/seeds) **before** sending any IOTA to your wallet in order to avoid **financial loss**!
 
 # Next steps
-Read the pages below now that you have installed the latest version of the IOTA wallet.
+Now that you have installed the latest version of the IOTA wallet, continue with reading the below pages.
 
 * [Seed generation and storage](/guide/wallet/official/seed) - The key to your wallet and IOTA balance
