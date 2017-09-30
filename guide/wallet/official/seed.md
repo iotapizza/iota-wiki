@@ -1,4 +1,4 @@
-<!-- TITLE: Wallet Guide -->
-<!-- SUBTITLE: IOTA wallet guides -->
+<!-- TITLE: Seed generation and storage -->
+<!-- SUBTITLE: The key to your wallet and balance -->
 
-# Wallets
+# Introduction
