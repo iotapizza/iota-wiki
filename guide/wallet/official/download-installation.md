@@ -10,7 +10,7 @@ The latest release while writing this guide is **v2.5.1**. If there's a newer ve
 
 Download the correct build for your operating system:
 * **Windows users** need the `IOTA.Wallet.Setup.x.x.x.exe`,
-* **Mac users** need to download `IOTA.Wallet-x.x.x.dmg`.
+* **Mac users** need to download `IOTA.Wallet-x.x.x.dmg` file.
 * Builds for other operating systems and the wallet source code are available too.
 
 **Always use the latest version!** The wallet does **not** have an automated update mechanism. In order to avoid problems it is strongly advised to **check for new releases and other announcements** regularly.
@@ -25,9 +25,9 @@ If you are **upgrading** from an earlier release you can just install the new ve
 It is of **utmost importance** to fully understand [how seeds work](/guide/wallet/official/seeds) **before** sending any IOTA to your wallet in order to avoid **financial loss**!
 
 # Next steps
-Now that you have installed the latest version of the IOTA wallet, you should read the pages below before you start using it.
+Now that you have installed the latest version of the IOTA wallet, you should read the following pages before using it.
 
-* **[Seed generation and storage](/guide/wallet/official/seed) - The key to your wallet and IOTA balance.**
+* **[Seed generation and storage](/guide/wallet/official/seed) - The key to your wallet and IOTA balance. Important information!**
 * [Light Node (Light wallet) vs Full Hode](/guide/wallet/official/light-wallet-full-node) - About the different wallet types
 
 ![IOTA logo](/uploads/iota/iota-logo-transparent.png "IOTA"){.pagelogo}
