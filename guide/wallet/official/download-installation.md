@@ -27,5 +27,5 @@ It is of **utmost importance** to fully understand [how seeds work](/guide/walle
 # Next steps
 Now that you have installed the latest version of the IOTA wallet, read the pages below before you start using it.
 
-* [Seed generation and storage](/guide/wallet/official/seed) - The key to your wallet and IOTA balance
+* **[Seed generation and storage](/guide/wallet/official/seed) - The key to your wallet and IOTA balance**
 * [Light Node (Light wallet) vs Full Hode](/guide/wallet/official/light-wallet-full-node) - About the different wallet types
