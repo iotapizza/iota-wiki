@@ -21,7 +21,7 @@ After you have downloaded the wallet you can verify the integrity of the file us
 
 **Start the installation process** that will install the IOTA wallet and its prerequisites to your system.
 
-If you are **upgrading** from an earlier release you only have to install the newer version over the existing one. As you only need your [seeds](/guide/wallet/official/download) in order to access your wallets (and IOTA balances) from anywhere in the world, it is usually not necessary to make backups.
+If you are **upgrading** from an earlier release you only need to install the new version over the existing one (unless stated otherwise in the release notes). Since you only need your [seeds](/guide/wallet/official/download) in order to access your wallets (and IOTA balances) from any device in the world, it is usually not necessary to make backups.
 
 It is of **utmost importance** to fully understand [how seeds work](/guide/wallet/official/seeds) **before** sending any IOTA to your wallet in order to avoid **financial loss**!
 
