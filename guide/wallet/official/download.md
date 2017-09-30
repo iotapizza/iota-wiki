@@ -1,4 +1,4 @@
-<!-- TITLE: Download & install -->
+<!-- TITLE: Download & installation -->
 <!-- SUBTITLE: The official IOTA wallet -->
 
 # Download
@@ -11,8 +11,7 @@ The latest release while writing this guide is **v2.5.1**. If there's a newer ve
 Download the correct build for your operating system:
 * **Windows users** need the `IOTA.Wallet.Setup.x.x.x.exe`,
 * **Mac users** need to download `IOTA.Wallet-x.x.x.dmg`.
-
-Builds for other operating systems and the wallet source code are available too.
+* Builds for other operating systems and the wallet source code are available too.
 
 **Always use the latest version!** The wallet does **not** have an automated update mechanism. In order to avoid problems it is strongly advised to **check for new releases and other announcements** regularly.
 
