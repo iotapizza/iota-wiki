@@ -9,7 +9,7 @@ The IOTA GUI wallet is available for download on GitHub. You will always find th
 The latest release while writing this guide is **v2.5.1**. If there's a newer version you will find it on the download page.
 
 Download the correct build for your operating system:
-* **Windows users** need the `IOTA.Wallet.Setup.x.x.x.exe`,
+* **Windows users** need the `IOTA.Wallet.Setup.x.x.x.exe` file,
 * **Mac users** need to download the `IOTA.Wallet-x.x.x.dmg` file.
 * Builds for other operating systems and the wallet source code are available too.
 
