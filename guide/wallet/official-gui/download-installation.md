@@ -6,7 +6,7 @@ The IOTA GUI wallet is available for download on GitHub. You will always find th
 
 > **Download page:** [https://github.com/iotaledger/wallet/releases](https://github.com/iotaledger/wallet/releases)
 
-The latest release while writing this guide is **v2.5.1**. If there's a newer version you will find it on the download page.
+The latest release while writing this guide is **v2.5.1**. If there is a newer version it will be shown on the download page.
 
 Download the correct build for your operating system:
 * **Windows users** need the `IOTA.Wallet.Setup.x.x.x.exe` file,
@@ -25,7 +25,7 @@ If you are **upgrading** from an earlier release you can just install the new ve
 It is **utmost important** to fully understand [how seeds work](/guide/wallet/official-gui/seeds) **before** you send any IOTA to your wallet in order to avoid **financial loss!**
 
 # Next steps
-Now that you have installed the latest version of the IOTA wallet, you should read the following pages before using it.
+Now that you have installed the latest version of the IOTA wallet, continue to read the following pages before using it.
 
 * **[Seed generation and storage](/guide/wallet/official-gui/seeds) - The key to your wallet and IOTA balance!**
 * [Light Node (Light wallet) vs Full Hode](/guide/wallet/official-gui/light-wallet-full-node) - About the different wallet types
