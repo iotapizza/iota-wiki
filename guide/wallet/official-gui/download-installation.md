@@ -1,5 +1,5 @@
 <!-- TITLE: Download & installation -->
-<!-- SUBTITLE: The official IOTA (GUI) wallet -->
+<!-- SUBTITLE: Guide for the official IOTA (GUI) wallet -->
 
 # Download
 The IOTA GUI wallet is available for download on GitHub. You will always find the latest release at the top of the following download page.
@@ -22,12 +22,12 @@ Then **start the installation process** (execute the file) that will install the
 
 If you are **upgrading** from an earlier release you can just install the new version over the existing (unless stated otherwise in the release notes). You need only your seeds to access your wallets (and IOTA balances) from any place and device in the world, so it is usually not necessary to make backups of the wallet itself.
 
-It is **utmost important** to fully understand [how seeds work](/guide/wallet/official/seeds) **before** you send any IOTA to your wallet in order to avoid **financial loss!**
+It is **utmost important** to fully understand [how seeds work](/guide/wallet/official-gui/seeds) **before** you send any IOTA to your wallet in order to avoid **financial loss!**
 
 # Next steps
 Now that you have installed the latest version of the IOTA wallet, you should read the following pages before using it.
 
-* **[Seed generation and storage](/guide/wallet/official/seeds) - The key to your wallet and IOTA balance!**
-* [Light Node (Light wallet) vs Full Hode](/guide/wallet/official/light-wallet-full-node) - About the different wallet types
+* **[Seed generation and storage](/guide/wallet/official-gui/seeds) - The key to your wallet and IOTA balance!**
+* [Light Node (Light wallet) vs Full Hode](/guide/wallet/official-gui/light-wallet-full-node) - About the different wallet types
 
 ![IOTA logo](/uploads/iota/iota-logo-transparent.png "IOTA"){.pagelogo}
