@@ -22,7 +22,7 @@ Then **start the installation process** (execute the file) that will install the
 
 If you are **upgrading** from an earlier release you just have to install the new version over the existing (unless stated otherwise in the release notes). You only need your seeds to access your wallets (and IOTA balances) from any place and device in the world, so it is usually not necessary to make backups of the wallet itself.
 
-It is **utmost important** to fully understand [how seeds work](/guide/wallet/official-gui/seeds) **before** you send any IOTA to your wallet in order to avoid **financial loss!**
+It is **utmost important to fully understand [how seeds work](/guide/wallet/official-gui/seeds) before** you send any IOTA to your wallet in order to avoid **financial loss!**
 
 # Next steps
 Now that you have installed the latest version of the IOTA wallet, continue to read the following pages before using it.
