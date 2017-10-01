@@ -1,4 +1,4 @@
-<!-- TITLE: Official IOTA (GUI) wallet -->
+<!-- TITLE: IOTA (GUI) wallet -->
 <!-- SUBTITLE: Guide for the official IOTA wallet -->
 
 # Wallet info
