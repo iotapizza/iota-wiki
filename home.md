@@ -16,7 +16,7 @@ Users will be granted write permission only within their personal user section `
 
 This project needs the help of many users to create main pages like:
 * [What is IOTA?](/iota/about-iota)
-* Download and install the wallet
+* [Download and install the wallet](/guide/wallet/official-gui/download-installation)
 * Securely create and store a seed
 
 and many other guides, preferably in multiple languages too. For write requests and general discussion about this project I created the `#projectwiki` channel.
