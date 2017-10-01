@@ -2,7 +2,7 @@
 <!-- SUBTITLE: Guide for the official IOTA (GUI) wallet -->
 
 # Download
-The IOTA GUI wallet is available for download on GitHub. You will always find the latest release at the top of the following download page.
+The official IOTA GUI wallet is available for download on GitHub. You will always find the latest release at the top of the following download page.
 
 > **Download page:** [https://github.com/iotaledger/wallet/releases](https://github.com/iotaledger/wallet/releases)
 
@@ -18,9 +18,9 @@ Download the correct build for your operating system:
 # Installation & update
 After you have downloaded the wallet you can verify the integrity of the file using the checksums provided on the download page. This is an optional step.
 
-Then **start the installation process** (execute the file) that will install the IOTA wallet and its prerequisites to your system.
+Then **start the installation process** (execute the file) that will install the IOTA wallet and prerequisites to your system.
 
-If you are **upgrading** from an earlier release you can just install the new version over the existing (unless stated otherwise in the release notes). You need only your seeds to access your wallets (and IOTA balances) from any place and device in the world, so it is usually not necessary to make backups of the wallet itself.
+If you are **upgrading** from an earlier release you just have to install the new version over the existing (unless stated otherwise in the release notes). You only need your seeds to access your wallets (and IOTA balances) from any place and device in the world, so it is usually not necessary to make backups of the wallet itself.
 
 It is **utmost important** to fully understand [how seeds work](/guide/wallet/official-gui/seeds) **before** you send any IOTA to your wallet in order to avoid **financial loss!**
 
