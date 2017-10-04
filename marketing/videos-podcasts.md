@@ -1,10 +1,25 @@
 <!-- TITLE: Videos & Podcasts -->
 <!-- SUBTITLE: related to IOTA and the Tangle -->
 
-This is a collection of videos and podcasts related to IOTA. Not all of them belong into `/marketing` and need to be further sorted to proper sections and pages.
+This is a collection of videos and podcasts related to IOTA. Not all of them belong into `/marketing` and need to be sorted to proper sections and pages.
+
+# September 30, 2017
+## Video: Talkshow: Global Challenges, Startups Succes - Blockchain Future of Trust Summit
+[Talkshow: Global Challenges, Startups Succes - Blockchain Future of Trust Summit](https://www.youtube.com/watch?v=HwzQJLVjUTM){.youtube}
+> Talkshow on international startups addressing global challenges and how to succeed with the following guests:
+> 
+> Wienke Giezeman - Initiator, The Things Network;
+> Dominik Schiener - Co-founder, IOTA;
+> Daniel Gasteiger - Founder Procivis AG;
+> Jeroen van Megchelen - Founder Ledger Leopard;
+> Björn Wagner - Co-founder Parity Technologies.
+> 
+> At the Blockchain Future of Trust Summit 2017, September 28, Hall of Knights, The Hague, The Netherlands. 
+> 
+> Together with 260 hand-picked key players from startups to CEO’s, from government decision makers to leading (blockchain) entrepreneurs, from investors to scientists and politicians we dove into the future of trust, crystallized a collective understanding towards clear use cases and pre-sorted for a whole new season of building prototypes and doing business.
 
 # September 25, 2017
-## Video: #1 [Berlin] Meetup: IOTA and its practical application in the automotive industry
+## Video: #1 Meetup [Berlin]: IOTA and its practical application in the automotive industry
 [#1 Meetup: IOTA and its practical application in the automotive industry](https://www.youtube.com/watch?v=SVTOHdrsJ-U){.youtube}
 > On September 13th, 2017, we kicked off of our meetup series „Blockchain, tangle and beyond“ together with our friends from nakamo.to and innogy Innovation Hub.  After a presentation by Andreas Osowski (Core Developer at the IOTA foundation) about the latest developments at IOTA, Dr. Carsten Stöcker (Senior Manager at innogy Innovation Hub) shared some insights how innogy’s CarPass applies the IOTA protocol followed by a Q&A session.
 
