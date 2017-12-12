@@ -2,7 +2,7 @@
 <!-- SUBTITLE: A knowledge platform for the IOTA ledger. -->
 
 # What is IOTA?
-???
+IOTA is an open-source distributed ledger (cryptocurrency) focused on providing secure communications and payments between machines on the Internet of Things. Using directed acyclic graph (DAG) technology instead of the traditional blockchain, IOTA's transactions are free regardless of the size of the transaction, confirmations times are fast, the number of transactions the system can handle simultaneously is unlimited, and the system can easily scale.
 # About this Wiki
 After registering to the [iotatangle Slack](/community/slack) a few months ago I learned how difficult it is to find specific information in this environment designed for small teams. Developers and regular users provide very helpful answers to most of the questions, but especially new users joining the Slack have a hard time finding useful material in between the large amount of gossip, parrots and flashing HODL banners. All information is basically hidden from the public (from search engines too) and can't be shared with the people outside of Slack in a straightforward way.
 
