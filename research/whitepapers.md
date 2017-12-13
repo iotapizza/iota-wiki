@@ -5,6 +5,7 @@ This is a collection of papers that have been published by the [IOTA Foundation]
 # The Tangle
 ## Version 1.4 (latest)
 * English: [20171025-the-tangle-1-4.pdf](/uploads/research-whitepaper/20171025-the-tangle-1-4.pdf) *(370.2 KB - application/pdf)* published by Serguei Popov (`@mthcl`) on October 25, 2017.
+* Portuguese: [20171025-the-tangle-1-4-portuguese.pdf](/uploads/research-whitepaper/20171025-the-tangle-1-4-portuguese.pdf) *(589.9 KB - application/pdf)* translation published by Slack user `Marco Aurélio Jr` on December 13, 2017.
 
 ## Version 1.3 *
 * English: [20171001-iota-whitepaper-1-3.pdf](/uploads/research-whitepaper/20171001-iota-whitepaper-1-3.pdf) *(370.2 KB - application/pdf)* published by Serguei Popov (`@mthcl`) on October 1, 2017.
