@@ -6,4 +6,4 @@ Diving into IOTA can be overwhelming. In the early days of a massive undertaking
 
 In order to facilitate learning, having a clear and precise understanding of the terms which form the IOTA universe, is essential.
 
-This IOTA Glossary of Terms aims at providing you just that. It has been initiated by Ralf Rottmann, available on the official IOTA Slack and Twitter as [@ralf](https://twitter.com/ralf).
+This **IOTA Glossary of Terms** aims at providing you with exactly that. It has been initiated by Ralf Rottmann, available on the official IOTA Slack and Twitter as [@ralf](https://twitter.com/ralf).
